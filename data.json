@@ -1,0 +1,296 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "product_name": "Frontend Development",
+      "price": 400,
+      "created_at": "2024-09-06T12:05:00Z"
+    },
+    {
+      "id": 7,
+      "product_name": "Backend Development",
+      "price": 600,
+      "created_at": "2024-09-07T06:30:00Z"
+    },
+    {
+      "id": 8,
+      "product_name": "UI/UX Design",
+      "price": 250,
+      "created_at": "2024-09-08T14:20:00Z"
+    },
+    {
+      "id": 9,
+      "product_name": "API Integration",
+      "price": 450,
+      "created_at": "2024-09-09T13:40:00Z"
+    },
+    {
+      "id": 10,
+      "product_name": "Responsive Web Design",
+      "price": 550,
+      "created_at": "2024-09-10T05:50:00Z"
+    },
+    {
+      "id": 11,
+      "product_name": "Web Hosting Services",
+      "price": 3000,
+      "created_at": "2024-09-15T05:32:48.808Z"
+    },
+    {
+      "id": 12,
+      "product_name": "SEO Optimization",
+      "price": 3000,
+      "created_at": "2024-09-15T05:37:32.962Z"
+    },
+    {
+      "id": 13,
+      "product_name": "Content Management System Setup",
+      "price": 1000,
+      "created_at": "2024-09-15T05:38:11.042Z"
+    },
+    {
+      "id": 14,
+      "product_name": "Custom Web Application",
+      "price": 200,
+      "created_at": "2024-09-15T05:45:33.289Z"
+    },
+    {
+      "product_name": "Testing Disable",
+      "price": "1000",
+      "created_at": "2024-10-04T16:44:54.364Z",
+      "id": 15
+    }
+  ],
+  "vouchers": [
+    {
+      "voucher_id": "INV-20240924-2951",
+      "customer_name": "Mario",
+      "customer_email": "mario@gmail.com",
+      "sale_date": "2024-09-24T12:21",
+      "all_correct": true,
+      "save_data": false,
+      "records": [
+        {
+          "id": 1727157105151,
+          "product": {
+            "id": 6,
+            "product_name": "Frontend Development",
+            "price": 400,
+            "created_at": "2024-09-06T12:05:00Z"
+          },
+          "quantity": "3",
+          "cost": 1200,
+          "created_at": "2024-09-24T05:51:45.151Z"
+        }
+      ],
+      "total": 1200,
+      "tax": 84.00000000000001,
+      "netTotal": 1284,
+      "id": 6
+    },
+    {
+      "voucher_id": "INV-20240924-3793",
+      "customer_name": "San Kyi Tar",
+      "customer_email": "sankyitar@gmail.com",
+      "sale_date": "2024-09-24T14:44",
+      "all_correct": true,
+      "save_data": true,
+      "records": [
+        {
+          "id": 1727165698917,
+          "product": {
+            "id": 6,
+            "product_name": "Frontend Development",
+            "price": 400,
+            "created_at": "2024-09-06T12:05:00Z"
+          },
+          "quantity": 1,
+          "cost": 400,
+          "created_at": "2024-09-24T08:14:58.917Z"
+        },
+        {
+          "id": 1727165721869,
+          "product": {
+            "id": 7,
+            "product_name": "Backend Development",
+            "price": 600,
+            "created_at": "2024-09-07T06:30:00Z"
+          },
+          "quantity": "1",
+          "cost": 600,
+          "created_at": "2024-09-24T08:15:21.869Z"
+        }
+      ],
+      "total": 1000,
+      "tax": 70,
+      "netTotal": 1070,
+      "id": 8
+    },
+    {
+      "voucher_id": "INV-20240924-2217",
+      "customer_name": "testing",
+      "customer_email": "test@gmail.com",
+      "sale_date": "2024-09-24T14:49",
+      "all_correct": true,
+      "save_data": true,
+      "records": [
+        {
+          "id": 1727166010327,
+          "product": {
+            "id": 6,
+            "product_name": "Frontend Development",
+            "price": 400,
+            "created_at": "2024-09-06T12:05:00Z"
+          },
+          "quantity": "2",
+          "cost": 800,
+          "created_at": "2024-09-24T08:20:10.327Z"
+        }
+      ],
+      "total": 800,
+      "tax": 56.00000000000001,
+      "netTotal": 856,
+      "id": 9
+    },
+    {
+      "voucher_id": "INV-20240930-4949",
+      "customer_name": "Mg Hla",
+      "customer_email": "mghla@gmail.com",
+      "sale_date": "2024-09-30T22:06",
+      "all_correct": true,
+      "save_data": true,
+      "records": [
+        {
+          "id": 1727710975640,
+          "product": {
+            "id": 6,
+            "product_name": "Frontend Development",
+            "price": 400,
+            "created_at": "2024-09-06T12:05:00Z"
+          },
+          "quantity": "1",
+          "cost": 400,
+          "created_at": "2024-09-30T15:42:55.640Z"
+        }
+      ],
+      "total": 400,
+      "tax": 28.000000000000004,
+      "netTotal": 428,
+      "id": 10
+    },
+    {
+      "voucher_id": "INV-20240930-6394",
+      "customer_name": "Joseh Joster",
+      "customer_email": "joseh@gmail.com",
+      "sale_date": "2024-09-30T23:35",
+      "all_correct": true,
+      "save_data": true,
+      "records": [
+        {
+          "id": 1727715948145,
+          "product": {
+            "id": 6,
+            "product_name": "Frontend Development",
+            "price": 400,
+            "created_at": "2024-09-06T12:05:00Z"
+          },
+          "quantity": "3",
+          "cost": 1200,
+          "created_at": "2024-09-30T17:05:48.145Z"
+        }
+      ],
+      "total": 1200,
+      "tax": 84.00000000000001,
+      "netTotal": 1284,
+      "id": 11
+    },
+    {
+      "voucher_id": "INV-20240930-5482",
+      "customer_name": " Jotaro",
+      "customer_email": "jotaro@gmail.com",
+      "sale_date": "2024-09-30T23:36",
+      "all_correct": true,
+      "save_data": true,
+      "records": [
+        {
+          "id": 1727716003916,
+          "product": {
+            "id": 6,
+            "product_name": "Frontend Development",
+            "price": 400,
+            "created_at": "2024-09-06T12:05:00Z"
+          },
+          "quantity": "3",
+          "cost": 1200,
+          "created_at": "2024-09-30T17:06:43.916Z"
+        }
+      ],
+      "total": 1200,
+      "tax": 84.00000000000001,
+      "netTotal": 1284,
+      "id": 12
+    },
+    {
+      "voucher_id": "INV-20241004-9747",
+      "customer_name": "Testing Voucher",
+      "customer_email": "testing@gmail.com",
+      "sale_date": "2024-10-04T11:45",
+      "save_data": true,
+      "all_correct": true,
+      "records": [
+        {
+          "id": 1728018983685,
+          "product": {
+            "id": 6,
+            "product_name": "Frontend Development",
+            "price": 400,
+            "created_at": "2024-09-06T12:05:00Z"
+          },
+          "quantity": "1",
+          "cost": 400,
+          "created_at": "2024-10-04T05:16:23.685Z"
+        },
+        {
+          "id": 1728018988279,
+          "product": {
+            "id": 7,
+            "product_name": "Backend Development",
+            "price": 600,
+            "created_at": "2024-09-07T06:30:00Z"
+          },
+          "quantity": "1",
+          "cost": 600,
+          "created_at": "2024-10-04T05:16:28.279Z"
+        },
+        {
+          "id": 1728018991931,
+          "product": {
+            "id": 8,
+            "product_name": "UI/UX Design",
+            "price": 250,
+            "created_at": "2024-09-08T14:20:00Z"
+          },
+          "quantity": "1",
+          "cost": 250,
+          "created_at": "2024-10-04T05:16:31.931Z"
+        },
+        {
+          "id": 1728018997629,
+          "product": {
+            "id": 9,
+            "product_name": "API Integration",
+            "price": 450,
+            "created_at": "2024-09-09T13:40:00Z"
+          },
+          "quantity": "1",
+          "cost": 450,
+          "created_at": "2024-10-04T05:16:37.629Z"
+        }
+      ],
+      "total": 1700,
+      "tax": 119.00000000000001,
+      "netTotal": 1819,
+      "id": 13
+    }
+  ]
+}
